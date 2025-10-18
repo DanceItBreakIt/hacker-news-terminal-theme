@@ -1,3 +1,4 @@
+![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)
 # Terminal theme for Hacker News
 cool theme
 i made this cause the hacker news gui sucks
