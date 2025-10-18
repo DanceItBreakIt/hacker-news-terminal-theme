@@ -1,0 +1,80 @@
+* {
+	font-family: monospace !important;
+	font-size: 12pt !important;
+	background-color: black !important;
+	text-align: left;
+}
+
+body {
+	color: red;
+}
+
+a {
+	text-decoration: none !important;
+}
+a:link {
+	color: lime !important;
+}
+a:visited {
+	color: rgb(0,60,0) !important;
+}
+a:active {
+	color: white !important;
+}
+
+.pagetop a {
+	color: white !important;
+}
+.pagetop {
+	color: red !important;
+	line-height: 125% !important;
+}
+
+textarea {
+	color: orange;
+}
+
+span.rank {
+	color: white;
+}
+
+.c00 {
+	color: lime !important;
+}
+.c5A {
+	color: green !important;
+}
+
+tbody {
+	text-align: left !important;
+}
+
+input {
+	color: orange;
+}
+
+td {
+	color: aqua !important;
+}
+b, form, font {
+	color: white !important;
+}
+div {
+	color: aqua;
+}
+
+table {
+	width: 100%;
+}
+
+.hnname {
+	margin-right: 20px !important;
+	margin-left: 10px !important;
+}
+
+.comhead a{
+	color: rgb(150,150,0) !important;
+}
+.subtext {
+	color: rgb(150,20,0) !important;
+}
